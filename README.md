@@ -2,7 +2,7 @@
 linux相关知识笔记
 
 
-<table border="1">
+<table border="0">
     <tr>
         <th>Header 1</th>
         <th>Header 2</th>
